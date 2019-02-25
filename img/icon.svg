@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" font-family="Monospace" font-size="45" font-weight="bold" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" x="317.5" xml:space="preserve" y="191.5">ADPB</text>
+  <path d="m28.5,177.5c0,-32.596685 29.759669,-59 66.500001,-59c36.740332,0 66.500001,26.403315 66.500001,59c0,32.596685 -29.759669,59 -66.500001,59c-36.740332,0 -66.500001,-26.403315 -66.500001,-59z" fill="#ff7f00" id="svg_11" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <polygon cx="128.5" cy="139.5" edge="68.979868" fill="#7f0000" id="svg_14" orient="x" points="257.17779541015625,178.5 216.63243103027344,234.30589294433594 151.0286865234375,212.98992919921875 151.0286865234375,144.01007080078125 216.63243103027344,122.6941146850586 257.17779541015625,178.5 " shape="regularPoly" sides="5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" strokeWidth="5" strokecolor="#000000"/>
+ </g>
+</svg>
